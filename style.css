@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bfd1ee;
+}
+
+#experience,
+#contact,
+#foother,
+#pkdesign {
+  background-color: #bfd1ee;
+}
+
+section {
+  padding-top: 5rem;
+}
